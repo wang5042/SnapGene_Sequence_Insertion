@@ -1,3 +1,3 @@
 # SnapGene_Sequence_Insertion
 #通过传入snapgene文件，将文件转化为dictionary后，对特定区域的序列筛出后，梗概dictionary中features部分的start和end参数，随后重新写入并添加好插入序列的信息，最后以genbank格式写出
-#特别感谢组内另一位成员魏博妍的帮助，本python文件是基于她所写的转化snapgene文件方法后做编辑最后完成。
+</br>#特别感谢组内另一位成员魏博妍的帮助，本python文件是基于她所写的转化snapgene文件方法后做编辑最后完成。
